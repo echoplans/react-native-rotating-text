@@ -1,0 +1,23 @@
+{
+  "name": "react-native-shadow",
+  "version": "0.0.1",
+  "description": "A react-native port for react-rotating-text. For ios as well as android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srijan02420",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echoplans/react-native-rotating-text"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-rotating-text",
+    "rotating-text"
+  ],
+  "bugs": {
+  	"url": "https://github.com/echoplans/react-native-rotating-text/issues"
+  }
+}
