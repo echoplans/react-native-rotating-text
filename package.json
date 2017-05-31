@@ -1,6 +1,6 @@
 {
-  "name": "react-native-shadow",
-  "version": "0.0.1",
+  "name": "react-native-rotating-text",
+  "version": "0.0.2",
   "description": "A react-native port for react-rotating-text. For ios as well as android.",
   "main": "index.js",
   "scripts": {

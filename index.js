@@ -6,15 +6,8 @@
 
 import React, { PropTypes, PureComponent} from 'react';
 import {
-  Text,
-  StyleSheet,
-  View,
-  Image
+  Text
 } from 'react-native';
-
-import Colors from 'colors'
-import Fonts from 'fonts'
-import Strings from 'strings'
 
 export default class RotatingText extends PureComponent {
 
