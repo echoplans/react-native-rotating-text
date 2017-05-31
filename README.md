@@ -1,5 +1,7 @@
 # react-native-rotating-text
 
+[![npm version](https://badge.fury.io/js/react-native-rotating-text.svg)](https://badge.fury.io/js/react-native-rotating-text)
+
 ![effect showcase](http://i.imgur.com/AC5g7KD.gif)
 
 A typewriter type effect for text in react native. React-native port of react-rotating-text.
