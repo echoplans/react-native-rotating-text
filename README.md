@@ -62,7 +62,7 @@ The number of milliseconds between each typing action.
 The number of milliseconds between each deleting action.
 
 ## License
-[MIT](https://github.com/echoplans/react-native-rotating-text/blob/master/LICENSE.md)
+[MIT](https://github.com/echoplans/react-native-rotating-text/blob/master/LICENSE)
 
 ## Inspiration
 https://github.com/adrianmcli/react-rotating-text
