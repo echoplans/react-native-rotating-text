@@ -4,10 +4,11 @@
  * @repo
  */
 
-import React, { PropTypes, PureComponent} from 'react';
+import React, { PureComponent } from 'react';
 import {
   Text
 } from 'react-native';
+import PropTypes from 'prop-types';
 
 export default class RotatingText extends PureComponent {
 
@@ -141,14 +142,14 @@ export default class RotatingText extends PureComponent {
 }
 
 RotatingText.propTypes = {
-  style: PropTypes.number,
-  cursor: React.PropTypes.bool,
-  deletingInterval: React.PropTypes.number,
-  emptyPause: React.PropTypes.number,
-  eraseMode: React.PropTypes.string,
-  items: React.PropTypes.array,
-  pause: React.PropTypes.number,
-  typingInterval: React.PropTypes.number,
+  style: PropTypes.object,
+  cursor: PropTypes.bool,
+  deletingInterval: PropTypes.number,
+  emptyPause: PropTypes.number,
+  eraseMode: PropTypes.string,
+  items: PropTypes.array,
+  pause: PropTypes.number,
+  typingInterval: PropTypes.number,
 };
 
 RotatingText.defaultProps = {
